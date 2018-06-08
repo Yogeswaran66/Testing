@@ -1,0 +1,18 @@
+{
+    SessionKey :  "20171113190205011_1_1",
+    tableid : 8,
+    Id : 0,
+    ParentId : 3, 
+    option : 0,
+    data : {
+        OPERATION : 1,
+        pattern : "",
+        delimiter : ",",
+        MAXCOUNT : 10,
+        MAXCHILDCOUNT : 0,
+        EXTEND : 0,
+        FIELDLIST : "1,2,3,4,5,6,7,8,9,a,b,c,d,e,f,10,11,12,13,14,15,16,17,18,19,",
+        DATAELEMENT : "",
+        HASLESSMOREPARAM :""
+    }
+}

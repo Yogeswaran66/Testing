@@ -1,0 +1,10 @@
+{
+	AGENTID : 1,
+	VERSIONNUMBER : 1,
+	CLIENTKEY : 1,
+	IPADDRESS : 1,
+	MACADDRESS : "string",
+	MACHINENAME : "string",
+	LOGINID : "rajkumar",
+	PASSWORD : "oicl@123"
+}

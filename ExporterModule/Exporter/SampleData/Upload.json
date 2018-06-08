@@ -1,0 +1,8 @@
+{			
+	SessionKey : "string",
+	is_new : "Y",
+	ImageRef : "",	
+	FileName : "Jellyfish.jpg",
+	filehash : "",
+	ConvertToPDF : 0
+}

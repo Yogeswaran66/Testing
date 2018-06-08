@@ -1,0 +1,17 @@
+{
+    SessionKey :  "0308103438_efe3ed86-ec23-4587-954b-890a40ad1020",
+    tableid : 131,
+    Id : 0, 
+    ParentId : 7, 
+    option : 3,
+    data : {
+        OPERATION : 128,
+        pattern : "1122",
+        delimiter : ",",
+        MAXCOUNT : 1,
+        MAXCHILDCOUNT : 0,
+        EXTEND : 1,
+        FIELDLIST : "1,2,3,4,5,6,7,8,9,a,b,c,d,e,f,10,11,12,13,14,15,16,17,18,19,",
+        DATAELEMENT : ""
+    }
+}

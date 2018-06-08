@@ -1,0 +1,50 @@
+{
+  "SessionKey": "20171113171931952_1_1",
+  "ParentId": 0,
+  "WorkId": 0,
+  "WorkItemType": 1,
+  "PageId1": 0,
+  "PageId2": 0,
+  "FileSize": 0,
+  "FileFormat": 2,
+  "FileType": 2,
+  "Status": 1,
+  "Option": 0,
+  "DATA": {
+    "SECTION": [
+      {
+        "NAME": "WORKINFO",
+        "RECORD": [
+          {
+            "ATTRIBUTES": {
+              "TYPE": "ADDITION",
+              "WORKQUEUELOGDATA": "TOTALPAGES:1,SCANTYPE:DAK",
+              "WORKINFODATA": "{\"BASEDETAILS\":{\"PRODUCT\":\"DAK\",\"STAGE\":\"ALL\",\"CASENUMBER\":\"13102017173833\",\"USER\":\"TEST\",\"TRANSACTIONID\":\"13112017173901717\"},\"USERACTIVITY\":[{\"USER\":\"User1\",\"ACTION\":\"Scanning\",\"ACTIONDATETIME\":\"06102017162956\"}],\"DOCUMENTS\":[{\"DOCNAME\":\"Cover\",\"DOCTYPE\":\"Cover\",\"INSTANCE\":1,\"IMAGINGEXPORTFILENAME\":\"13112017173901718_00000001\",\"NONIMAGEDOCATTACHED\":[],\"FIELDS\":{}}]}"
+            },
+            "FIELD": {
+              "ID": 0,
+              "APPDATA1": "recldec01",
+              "APPDATA2": "oicl",
+              "APPDATA3": "",
+              "DATARELPATH": "",
+              "FILERELPATH": "13112017173901717",
+              "LASTQUEUEID": 0,
+              "CURRENTQUEUEID": 3,
+              "CREATEDON": "",
+              "CREATEDBY": 1,
+              "MODIFIEDON": "",
+              "MODIFIEDBY": 1,
+              "STATUS": 1,
+              "WORKITEMTYPE": 1,
+              "WORKITEMCATEGORY": -1,
+              "WORKITEMSOURCE": -1,
+              "WORKITEMGROUP": -1,              
+              "PROCESSINGUNIT": -1,
+              "PRIORITY": 1
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
